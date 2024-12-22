@@ -13,5 +13,5 @@
 ```bash
 python train.py --model mtl --dataset rest14 [--v2]
 ```
-* Infer with [infer.py](/infer.py)
+* Infer with [infer.ipynb](/infer.ipynb)
 
