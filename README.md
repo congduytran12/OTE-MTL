@@ -1,4 +1,4 @@
-# OTE-MTL
+# A Multi-task Learning Framework for Opinion Triplet Extraction
 
 ## Requirements
 
