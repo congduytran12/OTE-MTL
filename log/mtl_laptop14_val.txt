@@ -1,0 +1,40 @@
+repeat: 1
+test_ap_precision: 0.7463, test_ap_recall: 0.7447, test_ap_f1: 0.7455
+test_op_precision: 0.6618, test_op_recall: 0.7469, test_op_f1: 0.7018
+test_triplet_precision: 0.4832, test_triplet_recall: 0.4438, test_triplet_f1: 0.4627
+repeat: 2
+test_ap_precision: 0.7480, test_ap_recall: 0.7700, test_ap_f1: 0.7588
+test_op_precision: 0.7365, test_op_recall: 0.6673, test_op_f1: 0.7002
+test_triplet_precision: 0.5534, test_triplet_recall: 0.4130, test_triplet_f1: 0.4730
+repeat: 3
+test_ap_precision: 0.7604, test_ap_recall: 0.7300, test_ap_f1: 0.7449
+test_op_precision: 0.7121, test_op_recall: 0.6510, test_op_f1: 0.6802
+test_triplet_precision: 0.4540, test_triplet_recall: 0.4022, test_triplet_f1: 0.4265
+repeat: 4
+test_ap_precision: 0.7991, test_ap_recall: 0.7131, test_ap_f1: 0.7536
+test_op_precision: 0.7424, test_op_recall: 0.7000, test_op_f1: 0.7206
+test_triplet_precision: 0.5311, test_triplet_recall: 0.4022, test_triplet_f1: 0.4577
+repeat: 5
+test_ap_precision: 0.7232, test_ap_recall: 0.7827, test_ap_f1: 0.7518
+test_op_precision: 0.7051, test_op_recall: 0.6735, test_op_f1: 0.6889
+test_triplet_precision: 0.4955, test_triplet_recall: 0.4022, test_triplet_f1: 0.4440
+repeat: 6
+test_ap_precision: 0.7370, test_ap_recall: 0.7447, test_ap_f1: 0.7408
+test_op_precision: 0.7601, test_op_recall: 0.6531, test_op_f1: 0.7025
+test_triplet_precision: 0.5176, test_triplet_recall: 0.3986, test_triplet_f1: 0.4504
+repeat: 7
+test_ap_precision: 0.7239, test_ap_recall: 0.7468, test_ap_f1: 0.7352
+test_op_precision: 0.7426, test_op_recall: 0.7184, test_op_f1: 0.7303
+test_triplet_precision: 0.5000, test_triplet_recall: 0.3967, test_triplet_f1: 0.4424
+repeat: 8
+test_ap_precision: 0.7203, test_ap_recall: 0.7173, test_ap_f1: 0.7188
+test_op_precision: 0.7197, test_op_recall: 0.6918, test_op_f1: 0.7055
+test_triplet_precision: 0.4532, test_triplet_recall: 0.3859, test_triplet_f1: 0.4168
+repeat: 9
+test_ap_precision: 0.7473, test_ap_recall: 0.7236, test_ap_f1: 0.7353
+test_op_precision: 0.7440, test_op_recall: 0.6347, test_op_f1: 0.6850
+test_triplet_precision: 0.5179, test_triplet_recall: 0.4203, test_triplet_f1: 0.4640
+repeat: 10
+test_ap_precision: 0.7080, test_ap_recall: 0.7827, test_ap_f1: 0.7435
+test_op_precision: 0.7025, test_op_recall: 0.6796, test_op_f1: 0.6909
+test_triplet_precision: 0.5033, test_triplet_recall: 0.4149, test_triplet_f1: 0.4548
